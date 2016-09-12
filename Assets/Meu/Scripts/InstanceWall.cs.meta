@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3affbaea0b212f143a8c239e72171611
+timeCreated: 1469870000
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - brick: {fileID: 4000011036502614, guid: 2d2cb5316a72983458eff16e58bf69a0, type: 2}
+  - muroPosA: {fileID: 4000011175641912, guid: 46abbb83f800de246bfcd15f6a2cbc72, type: 2}
+  - muroPosB: {fileID: 4000014106985472, guid: e86771c4aa94a4b4da3ab9a52e9cd318, type: 2}
+  - muroPosC: {fileID: 4000013780484128, guid: f78c945c3057d7844bc61b70ae0d9a27, type: 2}
+  - muroPosD: {fileID: 4000012614297288, guid: a5d9b36b00ae1724d8874233201834c3, type: 2}
+  - muro: {fileID: 4000013143536812, guid: ba3b518236ab3a646ade630d994a0fe2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

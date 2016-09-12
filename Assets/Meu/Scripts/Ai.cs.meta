@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a144bd72cd9525d40932bea4a85d117c
+timeCreated: 1462091948
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - arma1: {fileID: 117770, guid: 9abb333b254112e4fa1827056ed9e9bc, type: 2}
+  - arma2: {fileID: 152488, guid: b58eecd00202dc541b2b4e0bbd58e2bc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

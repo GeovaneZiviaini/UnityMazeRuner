@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubo.CSharp.Plugins", "Cubo.CSharp.Plugins.csproj", "{192BA985-9F07-1D3F-0977-598A9184FDF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubo.CSharp", "Cubo.CSharp.csproj", "{CDDE2B0D-E08E-DDCB-E598-B89C11F8BB75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubo.CSharp.Editor", "Cubo.CSharp.Editor.csproj", "{4263EAB2-97EE-B4D4-AA94-05D4459FBD9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{192BA985-9F07-1D3F-0977-598A9184FDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192BA985-9F07-1D3F-0977-598A9184FDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192BA985-9F07-1D3F-0977-598A9184FDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192BA985-9F07-1D3F-0977-598A9184FDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDDE2B0D-E08E-DDCB-E598-B89C11F8BB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDE2B0D-E08E-DDCB-E598-B89C11F8BB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDE2B0D-E08E-DDCB-E598-B89C11F8BB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDE2B0D-E08E-DDCB-E598-B89C11F8BB75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4263EAB2-97EE-B4D4-AA94-05D4459FBD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4263EAB2-97EE-B4D4-AA94-05D4459FBD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4263EAB2-97EE-B4D4-AA94-05D4459FBD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4263EAB2-97EE-B4D4-AA94-05D4459FBD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
